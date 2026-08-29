@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "JetBrains Mono, CaskaydiaMono Nerd Font, Consolas",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Doki Theme: Monogatari:  Tsubasa",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.location": "top",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false
+}
