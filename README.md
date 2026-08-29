@@ -1,10 +1,11 @@
 # vscode
 
-VS Code dotfiles — **Doki Theme** `v88.1.18` + minimal ricing.
+VS Code dotfiles — **Vitesse Dark** `antfu.theme-vitesse:1.0.1` + functional pack + minimal ricing.
 
-- **Theme:** `Doki Theme: Franxx: Zero Two Dark Obsidian` (default) — 80+ chars available
+- **Theme:** `Vitesse Dark` (was Doki `Monogatari: Tsubasa` / `Zero Two`) — 80+ Doki chars still installable via `unthrottled.doki-theme`
 - **Font:** `JetBrains Mono + CaskaydiaMono Nerd Font`, ligatures, `14px`, minimap off
 - **Layout:** activity bar `top`, command center off, startup `none`
+- **Functional:** `autoSave afterDelay`, `formatOnSave`, `bracketPairColorization`, `fileNesting`, `git autofetch` — Error Lens / Prettier / ESLint / GitLens / Git Graph / Path Intellisense / Auto Rename / Color Highlight / Indent Rainbow
 
 ## Install
 
